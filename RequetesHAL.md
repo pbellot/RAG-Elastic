@@ -1,4 +1,4 @@
-#Interrogation de HAL pour récupérer des PDF
+# Interrogation de HAL pour récupérer des PDF
 
 Pour ce TP, vous interrogerez le serveur de publications HAL en utilisant directement l'API dédiée et des requêtes HTTP. Cette interrogation se fera tout d'abord manuellement (saisie de la requête HTTP dans la barre d'adresse du navigateur) puis automatiquement dans un notebook Python. HAL est une bibliothèque numérique ouverte d'articles couvrant tous les domaines scientifiques. Plus de 1,2 millions d'articles sont accessibles en texte intégral et les méta-données de plus de 3,4 millions d'articles sont disponibles.
 
